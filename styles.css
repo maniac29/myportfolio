@@ -18,6 +18,7 @@ hr{
 /**container **/
 .container{
     padding: 0rem 1rem;
+    font-size: .8em;
 }
 
 .container-center{
